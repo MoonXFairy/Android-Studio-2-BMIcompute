@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android_num2_BMIcompute</string>
+    <string name="Title">BMI 計算</string>
+    <string name="bmi_height">Height</string>
+    <string name="bmi_weight">Weight</string>
+    <string name="bmi_btn">計算BMI</string>
+    <string name="bmi_result">BMI值:</string>
+    <string name="advice_light">體重過輕</string>
+    <string name="advice_average">體重正常</string>
+    <string name="advice_heavy">體重過重</string>
+</resources>
